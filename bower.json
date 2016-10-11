@@ -1,0 +1,40 @@
+{
+  "name": "sass-open-color",
+  "description": "SASS-only Bower package of the Open color scheme for web UI",
+  "version": "1.0.0",
+  "main": "scss",
+  "authors": [
+    "Jeong Heeyeun <hyd5012@gmail.com>",
+    "madastro <dev@madastro.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "color",
+    "colorscheme",
+    "color",
+    "swatches",
+    "SCSS",
+    "LESS",
+    "Stylus",
+    "CSS"
+  ],
+  "homepage": "https://github.com/madastro/sass-open-color",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/components",
+    "test",
+    "tests",
+    "builder",
+    "templates",
+    "build_release",
+    "compile-templates.js",
+    "bower.json",
+    "package.json",
+    ".npmignore",
+    ".gitignore",
+    ".travis.yml",
+    "docs"
+  ]
+}
