@@ -1,6 +1,6 @@
 # SASS Open color
 
-SASS-only Bower version of https://github.com/yeun/open-color
+SASS-only Bower version based off of https://github.com/yeun/open-color
 
 ## Installation
 
@@ -30,7 +30,7 @@ Import the file to your project and use the variables.
 **Example**
 
 ```sass
-@import 'bower-components/open-color';
+@import 'bower_components/sass-open-color/scss/open-color';
 
 .body {
   background-color: $oc-gray-0;
