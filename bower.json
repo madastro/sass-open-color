@@ -2,7 +2,7 @@
   "name": "sass-open-color",
   "description": "SASS-only Bower package of the Open color scheme for web UI",
   "version": "1.0.0",
-  "main": "scss",
+  "main": "sass",
   "authors": [
     "Jeong Heeyeun <hyd5012@gmail.com>",
     "madastro <dev@madastro.com>"
